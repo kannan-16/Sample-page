@@ -1,0 +1,8 @@
+.navigation ul{
+    display: flex;
+    /* justify-content: space-evenly; */
+    /* align-items: flex-end; */
+    flex-direction: row-reverse;
+    list-style: none;
+    justify-content:flex-end;
+}
